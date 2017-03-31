@@ -1,6 +1,6 @@
 # gosh
 Simple shell implementation with Go
 
-##Installation
+## Installation
 ```
 $ go get github.com/foobaron/gosh
